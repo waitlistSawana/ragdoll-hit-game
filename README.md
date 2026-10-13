@@ -2,7 +2,7 @@
 
 Game by Ericetto. Compiled Unity WebGL 2022.3.6f1 runtime.
 
-Play: https://waitlistsawana.github.io/ragdoll-hit-game/
+Play: https://games.ragdollhit.cc/
 
 Captured from https://freetoplayz.github.io/ragdoll-hit/ on 2026-10-13.
 Original attribution is preserved. No open-source or redistribution license has been verified.
