@@ -1,0 +1,141 @@
+{
+  "retrievedAt": "2026-10-13",
+  "source": "https://freetoplayz.github.io/ragdoll-hit/",
+  "author": "Ericetto",
+  "unityVersion": "2022.3.6f1",
+  "licenseStatus": "Unverified. No open-source or redistribution license confirmed.",
+  "sourceMissingFiles": [
+    "screenshots/3.jpg",
+    "screenshots/4-small.jpg",
+    "screenshots/4.jpg",
+    "null.html",
+    "null.json"
+  ],
+  "changes": [
+    "Local thumbnail, Torus fonts and SDK spinner URLs",
+    "Slideshow uses two complete source screenshot pairs because later full images return 404",
+    "Loading display uses actual raw Build sizes and approximate gzip transfer size",
+    "Explicit local 404 responses for disabled SDK null endpoints; no upstream API forwarding",
+    "Unity Build bytes unchanged; private Vercel build applies gzip with matching Content-Encoding",
+    "Pages build uses raw Unity bytes with standard .wasm/.data/.js extensions and matching index filenames; no custom encoding headers required"
+  ],
+  "files": [
+    {
+      "sourceUrl": "https://freetoplayz.github.io/ragdoll-hit/Build/3276aa7c11496bcc48eb6908f112f0c3.js.unityweb",
+      "path": "Build/3276aa7c11496bcc48eb6908f112f0c3.js.unityweb",
+      "bytes": 365286,
+      "sha256": "f03903333be45fb5d00f8be063984ea484f340f32f4e0b2bb71497aff72a6e21"
+    },
+    {
+      "sourceUrl": "https://freetoplayz.github.io/ragdoll-hit/Build/959bf1c60308f1c34bf072f43c3c17d4.data.unityweb",
+      "path": "Build/959bf1c60308f1c34bf072f43c3c17d4.data.unityweb",
+      "bytes": 13459814,
+      "sha256": "14b1c71965daef879f425661f92e2caf4b10cce1841501605bbd66827215cfbb"
+    },
+    {
+      "sourceUrl": "https://freetoplayz.github.io/ragdoll-hit/Build/f23c0f3f40a28f1adce731399dde22aa.wasm.unityweb",
+      "path": "Build/f23c0f3f40a28f1adce731399dde22aa.wasm.unityweb",
+      "bytes": 25480332,
+      "sha256": "8338ea05e4a9b8d0684049ad816203d72b04f0c064733aa110be89a142a4c00d"
+    },
+    {
+      "sourceUrl": "https://freetoplayz.github.io/ragdoll-hit/Build/v84.loader.js",
+      "path": "Build/v84.loader.js",
+      "bytes": 114199,
+      "sha256": "36adf7caad3c3113a57f499c741359aca6c12a11051a4291fa7f5f77976bc992"
+    },
+    {
+      "sourceUrl": "https://freetoplayz.github.io/ragdoll-hit/MobileDetect.js",
+      "path": "MobileDetect.js",
+      "bytes": 39586,
+      "sha256": "929ae5416530ae6c38f1245656403b2a3a51d8c27c46a60cab6718a19e35235b"
+    },
+    {
+      "sourceUrl": "https://a.poki.com/images/thumb_anim_2x.gif",
+      "path": "assets/thumb_anim_2x.gif",
+      "bytes": 5793,
+      "sha256": "e106f99856d89ff6f50e4744115ed8e1635ca99c312b20a672e7dad6ecd83288"
+    },
+    {
+      "sourceUrl": "https://img.poki.com/3c892779be9dabb3589586c83ad3eeed.png",
+      "path": "assets/thumbnail.png",
+      "bytes": 250620,
+      "sha256": "6aaf12992dd233905b52933ac6126b35cbd58b12557bafdd2fb7fce86256b759"
+    },
+    {
+      "sourceUrl": "https://a.poki.com/fonts/torus-bold-webfont.woff",
+      "path": "assets/torus-bold-webfont.woff",
+      "bytes": 28720,
+      "sha256": "aefb667bd410a1459eea392aebbf86c00cdcdd751b011eb1134db9028b11e795"
+    },
+    {
+      "sourceUrl": "https://a.poki.com/fonts/torus-bold-webfont.woff2",
+      "path": "assets/torus-bold-webfont.woff2",
+      "bytes": 23064,
+      "sha256": "af95aaf09528c2abfc0203c1fd9a56f9d6090fa969abdb65b4d0b73b5c905dd5"
+    },
+    {
+      "sourceUrl": "https://freetoplayz.github.io/ragdoll-hit/index.html",
+      "path": "index.html",
+      "bytes": 1649,
+      "sha256": "4b98e68df85ed856f62afdd4de6e220efc9d8c52938b28c8c7a98b02eb4273e4",
+      "hostedSha256": "94b7c251598bcc8226342677f52298e9e380cd64549a92eb4efb8da7c7444b62"
+    },
+    {
+      "sourceUrl": "https://freetoplayz.github.io/ragdoll-hit/master-loader.js",
+      "path": "master-loader.js",
+      "bytes": 1192,
+      "sha256": "db05534c8d6b0795112b5e329152e5d33fea96b51a61e06c9f4b3c97fe32195a"
+    },
+    {
+      "sourceUrl": "https://freetoplayz.github.io/ragdoll-hit/poki-sdk-core-v2.263.0.js",
+      "path": "poki-sdk-core-v2.263.0.js",
+      "bytes": 173232,
+      "sha256": "e03a14d056242d3d48837a3c3fa0adc76a3fb07703f882309c82a2f3df069760",
+      "hostedSha256": "e36b2707a457973df6d18b8ed1b672ab3d40021db302711acb00eeeccc617775"
+    },
+    {
+      "sourceUrl": "https://freetoplayz.github.io/ragdoll-hit/poki-sdk.js",
+      "path": "poki-sdk.js",
+      "bytes": 3212,
+      "sha256": "93790a07a5ab9b8e55c62598572faababc27992dbe51d2f92fa7b5a9856a1a5f"
+    },
+    {
+      "sourceUrl": "https://freetoplayz.github.io/ragdoll-hit/screenshots/1-small.jpg",
+      "path": "screenshots/1-small.jpg",
+      "bytes": 1379,
+      "sha256": "dee0c256cb362cfa750cce9e665e3a97d1b0283c49a17333493a6ed241a3d306"
+    },
+    {
+      "sourceUrl": "https://freetoplayz.github.io/ragdoll-hit/screenshots/1.jpg",
+      "path": "screenshots/1.jpg",
+      "bytes": 11126,
+      "sha256": "d4064b7ae6dcda44a2695bf86ee220c2fd14a4d861c99f6685136ef0cf816f09"
+    },
+    {
+      "sourceUrl": "https://freetoplayz.github.io/ragdoll-hit/screenshots/2-small.jpg",
+      "path": "screenshots/2-small.jpg",
+      "bytes": 1067,
+      "sha256": "9cb1f8657cad976a749c9e5b21d38af5c1fedb2391b75e4f845281adccdf5cc7"
+    },
+    {
+      "sourceUrl": "https://freetoplayz.github.io/ragdoll-hit/screenshots/2.jpg",
+      "path": "screenshots/2.jpg",
+      "bytes": 7138,
+      "sha256": "9001eb640b2e841f6f290a0813cd7612ed0c04fdacba796df0b1978d43e9f077"
+    },
+    {
+      "sourceUrl": "https://freetoplayz.github.io/ragdoll-hit/screenshots/3-small.jpg",
+      "path": "screenshots/3-small.jpg",
+      "bytes": 1219,
+      "sha256": "0756aaa0a16912e00baa65ff5f7e8feb66c4601a62136eb47b481fe895d036c2"
+    },
+    {
+      "sourceUrl": "https://freetoplayz.github.io/ragdoll-hit/unity-2020.js",
+      "path": "unity-2020.js",
+      "bytes": 32043,
+      "sha256": "22dffa1ae05a6eb621dc93671254f09caca2feaffc1ed15d46a79f75d43ca614",
+      "hostedSha256": "73117ea5508acf401a7ea4f0e4f8880df4012a360eec0630f11ca1ea48d408c9"
+    }
+  ]
+}
